@@ -1,1 +1,2 @@
-# Character-drawing-cat
+# 캐릭터 그리기 대회
+저희집 고양이를 그려 보았습니다. 
